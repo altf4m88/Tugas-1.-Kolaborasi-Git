@@ -1,1 +1,2 @@
 ini prog2
+ini prog 2 main
